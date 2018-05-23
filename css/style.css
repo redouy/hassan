@@ -1,0 +1,97 @@
+*{margin: 0;padding: 0;}
+header{}
+.body{font-family:'Plyfair Display',serif;color:#626262;}
+.header{min-height: 100px;
+   
+        min-height: 48px;}
+.wrapper{width: 90%;
+         overflow: hidden;
+         margin: 0 auto;}
+.logo{ width: 20%;
+       float: left;}
+.logo h1{font-family: 'Inconsolata' monospace;
+        color: #000000;
+        font-size: 30px;
+        padding: 10px 0px;
+        font-size: 16px;
+        text-transform: uppercase;}
+.nevbar{width: 60%;float: right;
+    }
+.nevbar ul{list-style: none;}
+.nevbar ul li{float: right;}
+.nevbar ul li a{display: block;
+                text-transform: uppercase;
+                text-decoration: none;
+                padding: 20px 20px;
+                color:#626262;}
+.nevbar ul li:last-child a{padding-right: 0px;}
+.banner{}
+.banner img{width: 100%;}
+
+
+.content{padding: 50px;0px;}
+.wrapper2{width: 80%;
+          margin: 0 auto;
+         }
+.main_containt{}
+.main_containt h1{font-size: 30px;
+               font-family: 'Inconsolata' monospace;
+               color: #000000;}
+.common_style{ padding: 20px 0px;
+               font-family: 'Ubuntu',sans-serif;
+               font-size: 14px;
+               font-weight: lighter;
+               color: #c8c3b9;
+               text-transform: uppercase;}
+.main_containt p1{font-size: 16px;
+                 line-height: 1.5;
+                padding: 20px 0;}
+.main_title{}
+.main_title p1 a{ padding: 20px;0px;
+               font-family: 'Ubuntu',sans-serif;
+               font-size: 14px;
+               font-weight: lighter;
+               color: #c8c3b9;}
+.blog{overflow: hidden;
+      width: 90%;
+      margin: 0 auto;}
+.blog1{width: 45%;
+       float: left;
+       padding: 0px 20px;}
+.blog2{width: 45%;
+       float: right;
+       padding: 0px 20px}
+.blog3{width: 45%;
+       float: left; 
+       padding: 40px 0px;}
+.blog4{width: 45%;
+       float: right;
+       padding: 40px 0px;}
+.sign_up{}
+.h1 sign{margin: 0 auto;}
+.email{}
+.wrapper5{min-height: 300px;
+        background-color: #f0f0f0;}
+
+.wrapper6{min-height: 100px;}
+.learn{min-height: 50px;border: 1px solid black;
+        width: 10%;
+        margin: 0 auto;
+        margin: 200px 600px;}
+
+.leran_more2{margin: 0 auto;
+            margin: 15px 10px;}
+.footer{min-height: 100px;
+        background-color:#bdbcbc;
+        width: 100%;}
+.main_footer{width: 80%;
+             margin: 0 auto;}
+.terms{min-height: 50px;
+        width: 30%;
+        float: left;
+margin: 40px 0px;}
+.socil_media{min-height: 50px;
+             width: 20%;float: right;
+             width: 25%;}
+.foll{float: left;margin: 46px 79px;}
+.image{float: right;padding: 46px 0px;min-height: 52px;}
